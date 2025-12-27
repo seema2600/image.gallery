@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.app{padding:20px;text-align:center;width:100%}.gallery{grid-gap:12px;background-color:gray;display:grid;gap:12px;grid-template-columns:repeat(4,1fr)}.card{background:#f5f5f5;border:1px solid #ccc;padding:8px}.card img{aspect-ratio:1/1;object-fit:cover;width:100%}.card p{font-size:11px;margin-top:6px}
+/*# sourceMappingURL=main.15bcfab0.css.map*/
